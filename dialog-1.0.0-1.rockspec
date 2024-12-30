@@ -1,7 +1,7 @@
 package = "dialog"
 version = "1.0.0-1"
 source = {
-   url = "https://github.com/tortoiselinux/lua-dialog/tree/main"
+   url = "https://github.com/tortoiselinux/lua-dialog/tree/main",
    tag = "v1.0.0",
 }
 description = {

@@ -1,0 +1,3 @@
+[submodule "include/tlib"]
+	path = include/tlib
+	url = https://github.com/tortoiselinux/tlib.git

@@ -14,7 +14,10 @@
    The most significant value is returned first
 ]]
 
+package.path = package.path .. string.format(";./%s/?.lua", "include/tlib")
+
 local t = require("tlib")
+
 local dialog = {}
 
 function dialog.help()
